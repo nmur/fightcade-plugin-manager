@@ -8,5 +8,5 @@ You can now add supported plugin files to the `/plugins` directory where they wi
 
 ## Supported Plugins
 - [fightcade-plugin-ping-filter](https://github.com/nmur/fightcade-plugin-ping-filter): Filters out users from the userlist based on a specified ping
-- fightcade-plugin-enable-devtools: Re-enables F12 Chrome DevTools
+- [fightcade-plugin-enable-devtools](https://github.com/nmur/fightcade-plugin-enable-devtools): Re-enables F12 Chrome DevTools
 - fightcade-plugin-show-user-network-info(?): (Port of x) Shows the country flag and ping next to usernames in the chat panel
