@@ -9,7 +9,7 @@ You can now add supported plugin files to the `/plugins` directory where they wi
 ## Supported Plugins
 - [fightcade-plugin-ping-filter](https://github.com/nmur/fightcade-plugin-ping-filter): Filters out users from the userlist based on a specified ping
 - [fightcade-plugin-enable-devtools](https://github.com/nmur/fightcade-plugin-enable-devtools): Re-enables F12 Chrome DevTools
-- [fightcade-plugin-chat-user-info](https://github.com/nmur/fightcade-plugin-chat-user-info):
+- [fightcade-plugin-chat-user-info](https://github.com/nmur/fightcade-plugin-chat-user-info): Port of [Ren](https://x.com/rencoding)'s player info code included in their [Fightcade Renhanced Plugins](https://github.com/Arkadyzja/fcade-renhanced)
 
 ## Creating Plugins
 
