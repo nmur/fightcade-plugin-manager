@@ -4,7 +4,9 @@ This plugin manager provides a framework for loading one or more compatible Figh
 ## Installation
 Download `fightcade-plugin-manager.zip` from the latest [release](https://github.com/nmur/fightcade-plugin-manager/releases) and extract it into your `Fightcade\fc2-electron\resources\app\inject` directory, overwriting the existing `inject.js` file. Backup the existing `inject.js` file if wish, else you can re-obtain it from [here](https://github.com/blueminder/fightcade-joystick-kb-controls/blob/main/inject.js) (it's the script that adds joystick/keyboard navigation to the Fightcade UI).
 
-You can now add supported plugin files to the `\plugins` directory where they will be loaded automatically. Settings for each plugin can be configured in the `config.json` file.
+You can now add supported plugin files to the `\plugins` directory where they will be loaded automatically.  
+  
+Settings for each plugin can be configured in the `config.json` file.
 
 ## Supported Plugins
 - [fightcade-plugin-ping-filter](https://github.com/nmur/fightcade-plugin-ping-filter): Filters out users from the userlist based on a specified ping
