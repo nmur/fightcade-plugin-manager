@@ -13,6 +13,7 @@ Settings for each plugin can be configured in the `config.json` file.
 - [fightcade-plugin-enable-devtools](https://github.com/nmur/fightcade-plugin-enable-devtools): Re-enables F12 Chrome DevTools
 - [fightcade-plugin-auto-join-channel](https://github.com/nmur/fightcade-plugin-auto-join-channel): Skip the welcome page when launching Fightcade and automatically connect to a game's channel
 - [fightcade-plugin-chat-user-info](https://github.com/nmur/fightcade-plugin-chat-user-info): Port of [Ren](https://x.com/rencoding)'s player info code included in their [Fightcade Renhanced Plugins](https://github.com/Arkadyzja/fcade-renhanced)
+- [fightcade-plugin-spectate-with-lua](https://github.com/nmur/fightcade-plugin-spectate-with-lua): Automatically run a Lua script when spectating an ongoing match in Fightcade, eg the `3rd_spectator.lua` script from the [Grouflon Training Mode](https://github.com/Grouflon/3rd_training_lua) repository
 
 ## Creating Plugins
 
